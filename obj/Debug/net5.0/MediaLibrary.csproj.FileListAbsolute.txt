@@ -14,3 +14,7 @@ C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Progra
 C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\obj\Debug\net5.0\ref\MediaLibrary.dll
 C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\obj\Debug\net5.0\MediaLibrary.pdb
 C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\obj\Debug\net5.0\MediaLibrary.genruntimeconfig.cache
+C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\bin\Debug\net5.0\NLog.dll
+C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\brand\OneDrive - Waukesha County Technical College\.Net Database Programming\MediaLibrary\obj\Debug\net5.0\MediaLibrary.csproj.CopyComplete
