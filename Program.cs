@@ -10,7 +10,12 @@ namespace MediaLibrary
         static void Main(string[] args)
         {
             logger.Info("Program started");
-            Console.WriteLine("Hello World!");
+            Movie movie = new Movie{
+                mediaId = 123,
+                title = "Greatest Movie Ever, the (2020)",
+                genres = { "Comedy", "Romance" }
+            };
+            Console.WriteLine(movie.Display());
             logger.Info("Program ended");
         }
     }
