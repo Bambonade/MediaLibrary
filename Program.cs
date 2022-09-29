@@ -17,6 +17,14 @@ namespace MediaLibrary
             logger.Info(scrubbedFile);
             MovieFile movieFile = new MovieFile(scrubbedFile);
 
+            string choice = "";
+            do{
+                Console.WriteLine("1) Add Movie");
+                Console.WriteLine("2) Display All Movies");
+                Console.WriteLine("Enter to quit");
+                choice = Console.ReadLine();
+                logger.info("User choice: {choice}", choice);
+            }
             logger.Info("Program ended");
         }
     }
