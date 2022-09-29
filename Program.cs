@@ -13,6 +13,8 @@ namespace MediaLibrary
             Movie movie = new Movie{
                 mediaId = 123,
                 title = "Greatest Movie Ever, the (2020)",
+                director = "Jeff Grissom",
+                runningTime = new TimeSpan(2,21,23),
                 genres = { "Comedy", "Romance" }
             };
             Console.WriteLine(movie.Display());

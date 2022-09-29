@@ -22,7 +22,9 @@ namespace MediaLibrary
             return $"Id: {mediaId}\nTitle: {title}\nGenres: {string.Join(", ", genres)}\n";
         }
     }
-    public class Movie : Media{
-        
+    public class Movie : Media
+    {
+        public string director { get; set; }
+        public TimeSpan runningTime{ get; set; }
     }
 }
